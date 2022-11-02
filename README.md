@@ -7,7 +7,7 @@
 </div>
 
 <h4 align="center">Currently I'm taking a course of web-development at Yandex.Practicum 
-and doing some lilte side projects</h4>
+and doing some lilte side projects.</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

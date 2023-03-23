@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hey, my name is Daria Lazarchuk</h1>
-<h3 align="center">:sparkles: I am a passionate frontend developer :sparkles:</h3>
+<h1 align="center">Daria Lazarchuk</h1>
+<p align="center">:sparkles: I am a passionate frontend developer :sparkles:</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="300"/>
 </div>
-
-<h4 align="center">Currently I'm taking a course of web-development at Yandex.Practicum 
+<!--
+<h4 align="center">Currently I m taking a course of web-development at Yandex.Practicum 
 and doing some little side projects.</h4>
-
+-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://t.me/dashall24" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="dashall24" height="40" width="40" /></a>
@@ -20,6 +20,27 @@ and doing some little side projects.</h4>
 ---
 
 <h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
+
+frontend:              
+![JavaScript](https://img.shields.io/badge/javascript-36465D.svg?style=for-the-badge&logo=javascript&logoColor=8FD337)
+![React](https://img.shields.io/badge/react-36465D.svg?style=for-the-badge&logo=react&logoColor=8FD337)
+![Jest](https://img.shields.io/badge/jest-36465D.svg?style=for-the-badge&logo=jest&logoColor=8FD337)
+![HTML5](https://img.shields.io/badge/html5-36465D.svg?style=for-the-badge&logo=html5&logoColor=8FD337)
+![API](https://img.shields.io/badge/-BEM%20-36465D?style=for-the-badge&logo=BEM&logoColor=8FD337)
+![CSS3](https://img.shields.io/badge/css3-36465D.svg?style=for-the-badge&logo=css3&logoColor=8FD337)
+![SASS](https://img.shields.io/badge/sass-36465D.svg?style=for-the-badge&logo=sass&logoColor=8FD337)   
+backend:  
+![NodeJS](https://img.shields.io/badge/node.js-36465D?style=for-the-badge&logo=node.js&logoColor=8FD337)
+![Express.js](https://img.shields.io/badge/express.js-36465D.svg?style=for-the-badge&logo=express&logoColor=8FD337)
+![MongoDB](https://img.shields.io/badge/MongoDB-36465D.svg?style=for-the-badge&logo=mongodb&logoColor=8FD337)
+![Postman](https://img.shields.io/badge/Postman-36465D?style=for-the-badge&logo=postman&logoColor=8FD337)  
+and:  
+![Git](https://img.shields.io/badge/git-36465D.svg?style=for-the-badge&logo=git&logoColor=8FD337)
+![GitHub](https://img.shields.io/badge/github-36465D.svg?style=for-the-badge&logo=github&logoColor=8FD337)
+![Webpack](https://img.shields.io/badge/webpack-36465D.svg?style=for-the-badge&logo=webpack&logoColor=8FD337)
+![Figma](https://img.shields.io/badge/figma-36465D.svg?style=for-the-badge&logo=figma&logoColor=8FD337)  
+
+<!--
 <p align="left"> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -45,14 +66,12 @@ and doing some little side projects.</h4>
 
 </p>
 
+-->
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashalalala24&show_icons=true&locale=en&layout=compact" alt="dashalalala24" ></p>
-
-
-<div>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dashalalala24&show_icons=true&locale=en" alt="dashalalala24" /></div>
-
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashalalala24&show_icons=true&locale=en&layout=compact" alt="dashalalala24" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dashalalala24&show_icons=true&locale=en" alt="dashalalala24" />
+</p>
 
 
 

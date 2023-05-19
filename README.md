@@ -9,7 +9,7 @@
   Also now I'm a team leader of a small team, which works on a project for people with disabilities.  
 </p> -->
 
-<img width="263" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" />
+<img width="270" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" />
 
 ### :sparkles: About me:
 - I'm a passionate frontend developer.
@@ -34,7 +34,7 @@ frontend:
 ![React](https://img.shields.io/badge/react-36465D.svg?style=for-the-badge&logo=react&logoColor=8FD337)
 ![HTML5](https://img.shields.io/badge/html5-36465D.svg?style=for-the-badge&logo=html5&logoColor=8FD337)
 ![CSS3](https://img.shields.io/badge/css3-36465D.svg?style=for-the-badge&logo=css3&logoColor=8FD337)
-![SASS](https://img.shields.io/badge/sass-36465D.svg?style=for-the-badge&logo=sass&logoColor=8FD337)  
+![SASS](https://img.shields.io/badge/sass-36465D.svg?style=for-the-badge&logo=sass&logoColor=8FD337)
 
 backend:  
 ![NodeJS](https://img.shields.io/badge/node.js-36465D?style=for-the-badge&logo=node.js&logoColor=8FD337)
@@ -42,7 +42,6 @@ backend:
 ![MongoDB](https://img.shields.io/badge/MongoDB-36465D.svg?style=for-the-badge&logo=mongodb&logoColor=8FD337)
 
 and:  
-
 ![БЭМ](https://img.shields.io/badge/-BEM%20-36465D?style=for-the-badge&logo=BEM&logoColor=8FD337)
 ![Jest](https://img.shields.io/badge/jest-36465D.svg?style=for-the-badge&logo=jest&logoColor=8FD337)
 ![Git](https://img.shields.io/badge/git-36465D.svg?style=for-the-badge&logo=git&logoColor=8FD337)

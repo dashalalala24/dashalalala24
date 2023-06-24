@@ -15,7 +15,7 @@
 - I'm a passionate frontend developer.
 - I'm a mentor for novice web-developers at Yandex.Practicum.
 - I have experience as a team leader of web-developers.
-– I often participate in hackathons, frontend competitions and other activities.
+- I often participate in hackathons, frontend competitions and other activities.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

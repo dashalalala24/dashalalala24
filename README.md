@@ -14,8 +14,8 @@
 ### :sparkles: About me:
 - I'm a passionate frontend developer.
 - I'm a mentor for novice web-developers at Yandex.Practicum.
-- Currently I'm a team leader of a small team, which works on a project for people with disabilities.
-
+- I have experience as a team leader of web-developers.
+– I often participate in hackathons, frontend competitions and other activities.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -31,7 +31,9 @@
 
 frontend:              
 ![JavaScript](https://img.shields.io/badge/javascript-36465D.svg?style=for-the-badge&logo=javascript&logoColor=8FD337)
+![TypeScript](https://img.shields.io/badge/typescript-36465D.svg?style=for-the-badge&logo=typescript&logoColor=8FD337)
 ![React](https://img.shields.io/badge/react-36465D.svg?style=for-the-badge&logo=react&logoColor=8FD337)
+![Redux](https://img.shields.io/badge/redux-36465D.svg?style=for-the-badge&logo=redux&logoColor=8FD337)
 ![HTML5](https://img.shields.io/badge/html5-36465D.svg?style=for-the-badge&logo=html5&logoColor=8FD337)
 ![CSS3](https://img.shields.io/badge/css3-36465D.svg?style=for-the-badge&logo=css3&logoColor=8FD337)
 ![SASS](https://img.shields.io/badge/sass-36465D.svg?style=for-the-badge&logo=sass&logoColor=8FD337)

@@ -1,7 +1,7 @@
 
 
 # Hey there! My name is Daria Lazarchuk
-<!-- <p align="center">:sparkles: I am a passionate frontend developer :sparkles:</p>
+<!-- <p align="center">✨ I am a passionate frontend developer ✨</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="300"/>
 </div>
@@ -11,7 +11,7 @@
 
 <img width="270" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" />
 
-### :sparkles: About me:
+### ✨ About me:
 - I'm a passionate frontend developer.
 - I'm a mentor for novice web-developers at Yandex.Practicum.
 - I have experience as a team leader of web-developers.
@@ -24,7 +24,7 @@
 
 ---
 
-### :hammer_and_wrench: What I use:
+### 🛠️ What I use:
 
 frontend:   
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a> |<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="45" height="45" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a> |<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a> | <a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> |<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Redux Toolkit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a> |

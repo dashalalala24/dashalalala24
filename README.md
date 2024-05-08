@@ -12,10 +12,15 @@
 <img width="270" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" />
 
 ### ✨ About me:
-- I'm a passionate frontend developer.
-- I'm a mentor for novice web-developers at Yandex.Practicum.
+- I am a passionate frontend developer.
+- Currently, I'm part of development team at «Business Pad», where we create a SaaS ERP system for automating work and accounting in trade, production and service companies with an integrated business process mapping tool (BPM).
+- I have been a mentor for novice web-developers at Yandex.Practicum for over a year, and actually... that was fun!
 - I have experience as a team leader of web-developers.
 - I often participate in hackathons, frontend competitions and other activities.
+
+ 
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,9 +32,9 @@
 ### 🛠️ What I use:
 
 frontend:   
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a> |<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="45" height="45" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a> |<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a> | <a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> |<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Redux Toolkit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a> |
-| --- | --- | --- | --- | --- | --- |
-| HTML5 | CSS3 | &nbsp;&nbsp;&nbsp;JS | &nbsp;&nbsp;&nbsp;TS | React | Redux/RTK |
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a> |<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="45" height="45" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a> |<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a> | <a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> |<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Redux Toolkit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a> | <a href="[https://redux-toolkit.js.org/](https://graphql.org/)" target="_blank" rel="noreferrer"><img width="45" height="45" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /></a> | 
+| --- | --- | --- | --- | --- | --- | --- |
+| HTML5 | CSS3 | &nbsp;&nbsp;&nbsp;JS | &nbsp;&nbsp;&nbsp;TS | React | Redux/RTK | GraphQL |
 
 backend:  
 
@@ -40,9 +45,9 @@ backend:
 
 and:  
 
- <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a> |<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></a> | <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> | <a href="https://en.bem.info/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="BEM" src="https://simpleicons.org/icons/bem.svg" /></a> | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Postman" src="https://simpleicons.org/icons/postman.svg" /></a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
-| --- | --- | --- | --- | --- | --- | --- |
-| &nbsp;Jest | &nbsp;&nbsp;&nbsp;Git | Webpack | &nbsp;Sass | &nbsp;BEM | Postman | Figma |
+ <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a> |<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></a> | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /></a>| <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>  | <a href="https://en.bem.info/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="BEM" src="https://simpleicons.org/icons/bem.svg" /></a> | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Postman" src="https://simpleicons.org/icons/postman.svg" /></a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| &nbsp;Jest | &nbsp;&nbsp;&nbsp;Git | Webpack | Docker | &nbsp;Sass | &nbsp;BEM | Postman | Figma |
 
 ___
 
